@@ -11,7 +11,7 @@ for j in f b; do
 done
 rst=$'\e[0m'
 echo -e "\e[100m                                   Launcher Script                             \e[00;37;40m"
-echo -e "\e[01;34m                                    By Mehrpouya                               \e[00;37;40m"
+echo -e "\e[01;34m                                    By virus32                               \e[00;37;40m"
 echo ""
 echo
 cat << EOF
